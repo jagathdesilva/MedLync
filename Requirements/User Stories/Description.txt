@@ -1,0 +1,1 @@
+This folder will be created to maintain the user stories
